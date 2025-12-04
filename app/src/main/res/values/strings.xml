@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Nom de l'application -->
+    <string name="app_name">MHealth</string>
+
+    <!-- Authentification -->
+    <string name="login_title">Connexion</string>
+    <string name="email_hint">Adresse email</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="role_hint">Sélectionnez votre rôle</string>
+    <string name="login_button">Se connecter</string>
+
+    <!-- Dashboard -->
+    <string name="logout">Se déconnecter</string>
+
+    <!-- Espaces par rôle -->
+    <string name="doctor_space">Espace Médecin</string>
+    <string name="admin_space">Espace Administrateur</string>
+    <string name="secretary_space">Espace Secrétaire</string>
+    <string name="patient_space">Espace Patient</string>
+
+</resources>

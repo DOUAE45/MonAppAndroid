@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/md_theme_background">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/dashboardToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/md_theme_primary"
+        android:elevation="6dp"
+        app:title="🏥 M-Health"
+        app:titleCentered="true"
+        app:subtitle="Votre espace santé ❤️"
+        app:subtitleTextColor="@color/md_theme_on_primary"
+        app:titleTextColor="@color/md_theme_on_primary"
+        app:menu="@menu/menu_dashboard" />
+
+    <FrameLayout
+        android:id="@+id/dashboardContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:padding="8dp"
+        android:background="@color/md_theme_background" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

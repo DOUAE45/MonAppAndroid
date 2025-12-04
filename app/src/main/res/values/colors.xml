@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Couleurs principales -->
+    <color name="md_theme_primary">#0A7CC0</color> <!-- Bleu professionnel -->
+    <color name="md_theme_primary_variant">#075A8A</color>
+    <color name="md_theme_on_primary">#FFFFFF</color>
+
+    <color name="md_theme_secondary">#4E5A65</color>
+    <color name="md_theme_on_secondary">#FFFFFF</color>
+
+    <!-- Fond et surface -->
+    <color name="md_theme_background">#F4F7FA</color>
+    <color name="md_theme_on_background">#1C1E21</color>
+    <color name="md_theme_surface">#FFFFFF</color>
+    <color name="md_theme_surface_variant">#E5EAF0</color>
+    <color name="md_theme_on_surface">#1A1C1E</color>
+
+    <!-- Ripple et effets -->
+    <color name="md_theme_ripple">#33000000</color>
+
+    <!-- Launcher -->
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>

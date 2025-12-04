@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.mhealth.app-debug-48:/layout_dialog_admin_alert.xml.flat",
+        "source": "com.mhealth.app-main-50:/layout/dialog_admin_alert.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/layout_activity_dashboard.xml.flat",
+        "source": "com.mhealth.app-main-50:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/layout_activity_login.xml.flat",
+        "source": "com.mhealth.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/layout_dialog_patient_message.xml.flat",
+        "source": "com.mhealth.app-main-50:/layout/dialog_patient_message.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/layout_fragment_patient.xml.flat",
+        "source": "com.mhealth.app-main-50:/layout/fragment_patient.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mhealth.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/drawable_ic_logout.xml.flat",
+        "source": "com.mhealth.app-main-50:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/layout_dialog_admin_user.xml.flat",
+        "source": "com.mhealth.app-main-50:/layout/dialog_admin_user.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/layout_fragment_doctor.xml.flat",
+        "source": "com.mhealth.app-main-50:/layout/fragment_doctor.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/layout_dialog_patient_appointment.xml.flat",
+        "source": "com.mhealth.app-main-50:/layout/dialog_patient_appointment.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/xml_backup_rules.xml.flat",
+        "source": "com.mhealth.app-main-50:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/xml_data_extraction_rules.xml.flat",
+        "source": "com.mhealth.app-main-50:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/layout_dialog_patient_prescription.xml.flat",
+        "source": "com.mhealth.app-main-50:/layout/dialog_patient_prescription.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/animator_button_press_anim.xml.flat",
+        "source": "com.mhealth.app-main-50:/animator/button_press_anim.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.mhealth.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/menu_menu_dashboard.xml.flat",
+        "source": "com.mhealth.app-main-50:/menu/menu_dashboard.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.mhealth.app-main-50:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/drawable_divider_mhealth.xml.flat",
+        "source": "com.mhealth.app-main-50:/drawable/divider_mhealth.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/layout_fragment_secretary.xml.flat",
+        "source": "com.mhealth.app-main-50:/layout/fragment_secretary.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/layout_fragment_admin.xml.flat",
+        "source": "com.mhealth.app-main-50:/layout/fragment_admin.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/animator_mhealth_button_state.xml.flat",
+        "source": "com.mhealth.app-main-50:/animator/mhealth_button_state.xml"
+    },
+    {
+        "merged": "com.mhealth.app-debug-48:/layout_dialog_admin_audit.xml.flat",
+        "source": "com.mhealth.app-main-50:/layout/dialog_admin_audit.xml"
+    }
+]

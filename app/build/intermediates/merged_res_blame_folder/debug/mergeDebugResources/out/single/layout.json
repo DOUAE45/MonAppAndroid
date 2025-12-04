@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.mhealth.app-mergeDebugResources-47:/layout/dialog_patient_appointment.xml",
+        "source": "com.mhealth.app-main-50:/layout/dialog_patient_appointment.xml"
+    },
+    {
+        "merged": "com.mhealth.app-mergeDebugResources-47:/layout/dialog_patient_message.xml",
+        "source": "com.mhealth.app-main-50:/layout/dialog_patient_message.xml"
+    },
+    {
+        "merged": "com.mhealth.app-mergeDebugResources-47:/layout/fragment_doctor.xml",
+        "source": "com.mhealth.app-main-50:/layout/fragment_doctor.xml"
+    },
+    {
+        "merged": "com.mhealth.app-mergeDebugResources-47:/layout/dialog_admin_audit.xml",
+        "source": "com.mhealth.app-main-50:/layout/dialog_admin_audit.xml"
+    },
+    {
+        "merged": "com.mhealth.app-mergeDebugResources-47:/layout/activity_dashboard.xml",
+        "source": "com.mhealth.app-main-50:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.mhealth.app-mergeDebugResources-47:/layout/fragment_patient.xml",
+        "source": "com.mhealth.app-main-50:/layout/fragment_patient.xml"
+    },
+    {
+        "merged": "com.mhealth.app-mergeDebugResources-47:/layout/fragment_secretary.xml",
+        "source": "com.mhealth.app-main-50:/layout/fragment_secretary.xml"
+    },
+    {
+        "merged": "com.mhealth.app-mergeDebugResources-47:/layout/activity_login.xml",
+        "source": "com.mhealth.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.mhealth.app-mergeDebugResources-47:/layout/fragment_admin.xml",
+        "source": "com.mhealth.app-main-50:/layout/fragment_admin.xml"
+    },
+    {
+        "merged": "com.mhealth.app-mergeDebugResources-47:/layout/dialog_admin_alert.xml",
+        "source": "com.mhealth.app-main-50:/layout/dialog_admin_alert.xml"
+    },
+    {
+        "merged": "com.mhealth.app-mergeDebugResources-47:/layout/dialog_patient_prescription.xml",
+        "source": "com.mhealth.app-main-50:/layout/dialog_patient_prescription.xml"
+    },
+    {
+        "merged": "com.mhealth.app-mergeDebugResources-47:/layout/dialog_admin_user.xml",
+        "source": "com.mhealth.app-main-50:/layout/dialog_admin_user.xml"
+    }
+]

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="role_entries">
+        <item>Patient</item>
+        <item>Médecin</item>
+        <item>Administrateur</item>
+        <item>Secrétaire</item>
+    </string-array>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="md_theme_background">#F4F7FA</color>
+    <color name="md_theme_on_background">#1C1E21</color>
+    <color name="md_theme_on_primary">#FFFFFF</color>
+    <color name="md_theme_on_secondary">#FFFFFF</color>
+    <color name="md_theme_on_surface">#1A1C1E</color>
+    <color name="md_theme_primary">#0A7CC0</color>
+    <color name="md_theme_primary_variant">#075A8A</color>
+    <color name="md_theme_ripple">#33000000</color>
+    <color name="md_theme_secondary">#4E5A65</color>
+    <color name="md_theme_surface">#FFFFFF</color>
+    <color name="md_theme_surface_variant">#E5EAF0</color>
+    <string name="admin_space">Espace Administrateur</string>
+    <string name="app_name">MHealth</string>
+    <string name="doctor_space">Espace Médecin</string>
+    <string name="email_hint">Adresse email</string>
+    <string name="login_button">Se connecter</string>
+    <string name="login_title">Connexion</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="patient_space">Espace Patient</string>
+    <string name="role_hint">Sélectionnez votre rôle</string>
+    <string name="secretary_space">Espace Secrétaire</string>
+    <style name="Theme.MHealth" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorPrimaryVariant">@color/md_theme_primary_variant</item>
+        <item name="colorSecondary">@color/md_theme_secondary</item>
+        <item name="colorOnPrimary">@color/md_theme_on_primary</item>
+        <item name="colorOnSecondary">@color/md_theme_on_secondary</item>
+        <item name="android:windowBackground">@color/md_theme_surface</item>
+        <item name="android:statusBarColor">@color/md_theme_primary</item>
+        <item name="android:navigationBarColor">@color/md_theme_primary</item>
+        <item name="materialCardViewStyle">@style/Widget.MHealth.Card</item>
+        <item name="textInputStyle">@style/Widget.MHealth.TextInputLayout</item>
+        <item name="materialButtonStyle">@style/Widget.MHealth.Button</item>
+    </style>
+    <style name="Widget.MHealth.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/md_theme_primary</item>
+        <item name="android:textColor">@color/md_theme_on_primary</item>
+        <item name="cornerRadius">24dp</item>
+        <item name="android:minHeight">52dp</item>
+        <item name="android:stateListAnimator">@animator/button_press_anim</item>
+    </style>
+    <style name="Widget.MHealth.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">6dp</item>
+        <item name="cardBackgroundColor">@color/md_theme_surface</item>
+        <item name="strokeColor">@color/md_theme_surface_variant</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="cardUseCompatPadding">true</item>
+    </style>
+    <style name="Widget.MHealth.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxBackgroundMode">outline</item>
+        <item name="boxBackgroundColor">@color/md_theme_surface</item>
+        <item name="boxStrokeColor">@color/md_theme_primary_variant</item>
+        <item name="hintTextColor">@color/md_theme_secondary</item>
+        <item name="android:textColor">@color/md_theme_on_surface</item>
+    </style>
+</resources>

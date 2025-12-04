@@ -1,0 +1,51 @@
+com.mhealth.app-jetified-annotation-experimental-1.4.0-0 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/069bed65dbd16e0a1d25acad67a2c69b/transformed/jetified-annotation-experimental-1.4.0/res
+com.mhealth.app-jetified-viewpager2-1.1.0-beta02-1 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/096f355304bcd5726e72a221c2d00e0b/transformed/jetified-viewpager2-1.1.0-beta02/res
+com.mhealth.app-transition-1.5.0-2 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/14593b24ce6b20d81e04638a5649309d/transformed/transition-1.5.0/res
+com.mhealth.app-jetified-lifecycle-runtime-ktx-release-3 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/171da7d9c792b48f939661522f996b83/transformed/jetified-lifecycle-runtime-ktx-release/res
+com.mhealth.app-jetified-lifecycle-process-2.8.2-4 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/1b0d8aba040850c516cf519065a15cbf/transformed/jetified-lifecycle-process-2.8.2/res
+com.mhealth.app-jetified-fragment-ktx-1.6.2-5 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/1b576b7aac900625a40e396a661f660b/transformed/jetified-fragment-ktx-1.6.2/res
+com.mhealth.app-jetified-emoji2-1.2.0-6 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/2383dd80d814ba7a245c3abb4b8b363f/transformed/jetified-emoji2-1.2.0/res
+com.mhealth.app-jetified-startup-runtime-1.1.1-7 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/2641d8cf9941d33f03932b73c0addb73/transformed/jetified-startup-runtime-1.1.1/res
+com.mhealth.app-lifecycle-livedata-core-2.8.2-8 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/30fb8c7c17f072df160e582971f68e1b/transformed/lifecycle-livedata-core-2.8.2/res
+com.mhealth.app-jetified-emoji2-views-helper-1.2.0-9 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/3730feb98a5a40a263f259a93c3aa7f0/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.mhealth.app-jetified-room-ktx-2.6.1-10 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/3a5616ccc6d0f1e20388e1eb929e8a0e/transformed/jetified-room-ktx-2.6.1/res
+com.mhealth.app-jetified-savedstate-1.2.1-11 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/4011b7002d9d7c6cb8be84dbbb95fbb9/transformed/jetified-savedstate-1.2.1/res
+com.mhealth.app-jetified-lifecycle-viewmodel-release-12 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/457952d7b54af9a009463ad5f6a5614e/transformed/jetified-lifecycle-viewmodel-release/res
+com.mhealth.app-navigation-runtime-2.7.7-13 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/4c0b884ebfe7083c61ea3559a7d99b8f/transformed/navigation-runtime-2.7.7/res
+com.mhealth.app-jetified-activity-1.8.0-14 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/4c81fe7b7870a0d774f7af6ea0ccae3d/transformed/jetified-activity-1.8.0/res
+com.mhealth.app-sqlite-framework-2.4.0-15 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/5075b256b0c0a84e6d8267a0fe61f922/transformed/sqlite-framework-2.4.0/res
+com.mhealth.app-jetified-lifecycle-viewmodel-savedstate-2.8.2-16 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/641178e9a8a3679ee8b671bbda255946/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.2/res
+com.mhealth.app-sqlite-2.4.0-17 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/694be5d74fcbfb917505f0c9fe7af693/transformed/sqlite-2.4.0/res
+com.mhealth.app-navigation-ui-2.7.7-18 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/699c90122f9a6ce501448f273f7d0675/transformed/navigation-ui-2.7.7/res
+com.mhealth.app-room-runtime-2.6.1-19 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/6b52bb7e17912f81e9844deebc72b875/transformed/room-runtime-2.6.1/res
+com.mhealth.app-jetified-savedstate-ktx-1.2.1-20 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/6e681ef81d5e9d90bb7847ef286c0971/transformed/jetified-savedstate-ktx-1.2.1/res
+com.mhealth.app-jetified-lifecycle-runtime-release-21 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/6eec4037a62b346801c74c2dc33f546d/transformed/jetified-lifecycle-runtime-release/res
+com.mhealth.app-jetified-appcompat-resources-1.6.1-22 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/7147dcd6569218e187f54b13604503d1/transformed/jetified-appcompat-resources-1.6.1/res
+com.mhealth.app-cardview-1.0.0-23 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/80942f6872a8ab599ec168e80a55c35c/transformed/cardview-1.0.0/res
+com.mhealth.app-navigation-common-2.7.7-24 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/80b498c5cded3e86088a663e41e5454f/transformed/navigation-common-2.7.7/res
+com.mhealth.app-appcompat-1.6.1-25 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/84349fa4b0b196bdff18d6236c918d8f/transformed/appcompat-1.6.1/res
+com.mhealth.app-navigation-fragment-2.7.7-26 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/8e0d6bd6e7045410d4a6737806d9e93e/transformed/navigation-fragment-2.7.7/res
+com.mhealth.app-jetified-window-1.0.0-27 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/8ea0870f727311b45d33a7409a4c5c50/transformed/jetified-window-1.0.0/res
+com.mhealth.app-jetified-lifecycle-viewmodel-ktx-2.8.2-28 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/94a693dd4568657ecc677b2b956f0418/transformed/jetified-lifecycle-viewmodel-ktx-2.8.2/res
+com.mhealth.app-drawerlayout-1.1.1-29 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/a5423e244717cf3997a1273822249777/transformed/drawerlayout-1.1.1/res
+com.mhealth.app-constraintlayout-2.1.4-30 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/bc7067c948dfdeb9dec3fa43c15284ea/transformed/constraintlayout-2.1.4/res
+com.mhealth.app-jetified-lifecycle-livedata-core-ktx-2.8.2-31 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/bf21a6ed12f43ee2db1228830e007a2b/transformed/jetified-lifecycle-livedata-core-ktx-2.8.2/res
+com.mhealth.app-core-1.13.1-32 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/bf4caf1756bc43761de8ba46d36f4c75/transformed/core-1.13.1/res
+com.mhealth.app-recyclerview-1.3.2-33 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/c617d97aa823f62f17ffc519f93fc063/transformed/recyclerview-1.3.2/res
+com.mhealth.app-lifecycle-livedata-2.8.2-34 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/c71dc1004023bffa7dc02cc4290052e3/transformed/lifecycle-livedata-2.8.2/res
+com.mhealth.app-fragment-1.6.2-35 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/c95b7303730742a70a9dc82ea073f2fe/transformed/fragment-1.6.2/res
+com.mhealth.app-jetified-activity-ktx-1.8.0-36 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/cadd3ae2fd4582a44c2c4dd7dd6aed66/transformed/jetified-activity-ktx-1.8.0/res
+com.mhealth.app-coordinatorlayout-1.1.0-37 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/cf59a1bb909ec27288985cd731130783/transformed/coordinatorlayout-1.1.0/res
+com.mhealth.app-jetified-profileinstaller-1.3.1-38 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/e517eb0e825b3ca7bd7c8c60eb9fcaa4/transformed/jetified-profileinstaller-1.3.1/res
+com.mhealth.app-material-1.12.0-39 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/e96439b44d45cc3511fa72595b50de88/transformed/material-1.12.0/res
+com.mhealth.app-jetified-core-ktx-1.13.1-40 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/ec42e12b690beb9d3f3c6c6bffbd9908/transformed/jetified-core-ktx-1.13.1/res
+com.mhealth.app-jetified-customview-poolingcontainer-1.0.0-41 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/ecb99efa5298c4b06d37fd8ab043f45b/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.mhealth.app-core-runtime-2.2.0-42 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/efc5d775d10be73d86b421383836000f/transformed/core-runtime-2.2.0/res
+com.mhealth.app-slidingpanelayout-1.2.0-43 /Users/apple/.gradle/caches/9.0-milestone-1/transforms/f8df22ffcdcd9c2b8a698fb64f7b08d4/transformed/slidingpanelayout-1.2.0/res
+com.mhealth.app-pngs-44 /Users/apple/Desktop/M-health copie/app/build/generated/res/pngs/debug
+com.mhealth.app-resValues-45 /Users/apple/Desktop/M-health copie/app/build/generated/res/resValues/debug
+com.mhealth.app-packageDebugResources-46 /Users/apple/Desktop/M-health copie/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.mhealth.app-packageDebugResources-47 /Users/apple/Desktop/M-health copie/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.mhealth.app-debug-48 /Users/apple/Desktop/M-health copie/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.mhealth.app-debug-49 /Users/apple/Desktop/M-health copie/app/src/debug/res
+com.mhealth.app-main-50 /Users/apple/Desktop/M-health copie/app/src/main/res
